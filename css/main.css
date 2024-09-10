@@ -1,0 +1,32 @@
+h1{
+    color: blue; 
+}
+.div1 {
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border: 2px dashed green;
+}
+.div2 {
+    border-bottom: 1px saddlebrown;
+    border-top: 2px dashed palevioletred;
+    border-left: 2px dashed chartreuse;
+    border-right: 20px dotted indigo;
+    padding: 20px;
+    border-top-right-radius: 20px;
+}
+.div3 {
+    border-bottom: 1px solid orange;
+    /* border-top-right-radius: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 40px; */
+    border-radius: 20px 30px 40px 50px;
+}
+.aylana {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 50%;
+}
